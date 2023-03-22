@@ -8,5 +8,12 @@ namespace OTS2023_DroneSimulator
 {
     public interface IDrone
     {
+        void MoveUp();
+        void MoveDown();
+        void MoveLeft();
+        void MoveRight();
+        void MoveBack();
+        void MoveForth();
+        string GetFormatedCoordinates();
     }
 }
