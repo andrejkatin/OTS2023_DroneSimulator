@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2023_DroneSimulator", "OTS2023_DroneSimulator\OTS2023_DroneSimulator.csproj", "{81981857-D232-4738-9F13-DF2347AA0681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2023_DroneSimulator.Test", "OTS2023_DroneSimulator.Test\OTS2023_DroneSimulator.Test.csproj", "{D523C1F6-342F-414E-9AA6-72814C2CF65A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2023_DroneSimulator.Test1", "OTS2023_DroneSimulator.Test1\OTS2023_DroneSimulator.Test1.csproj", "{AFDD43CF-A537-443D-A03D-BE6481C9BBF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{81981857-D232-4738-9F13-DF2347AA0681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81981857-D232-4738-9F13-DF2347AA0681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81981857-D232-4738-9F13-DF2347AA0681}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D523C1F6-342F-414E-9AA6-72814C2CF65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D523C1F6-342F-414E-9AA6-72814C2CF65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D523C1F6-342F-414E-9AA6-72814C2CF65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D523C1F6-342F-414E-9AA6-72814C2CF65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDD43CF-A537-443D-A03D-BE6481C9BBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDD43CF-A537-443D-A03D-BE6481C9BBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDD43CF-A537-443D-A03D-BE6481C9BBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDD43CF-A537-443D-A03D-BE6481C9BBF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
